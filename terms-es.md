@@ -1,5 +1,6 @@
 ---
 title: Términos de Servicio — TexLED
+lang: es
 ---
 
 # Términos de Servicio — TexLED
@@ -23,9 +24,11 @@ Te concedemos una licencia personal, no exclusiva, no transferible y revocable p
 
 ---
 
-## 2. Anuncios y funciones Premium
+## 2. Anuncios, funciones Premium y compras
 
 La App es gratuita y se financia con publicidad (Google AdMob). Algunas funciones adicionales ("Premium") se pueden desbloquear **temporalmente** viendo un **anuncio con recompensa**; este desbloqueo es **temporal** y puede cambiar. La disponibilidad de anuncios depende de Google y de tu región.
+
+La App también ofrece una **compra única opcional** ("Quitar anuncios") que elimina los anuncios de banner e intersticial y desbloquea las funciones Premium de forma permanente. El precio lo muestra **Google Play** antes de confirmar la compra. Los pagos los procesa Google Play; no recibimos tus datos de pago. La compra queda asociada a tu cuenta de Google y se puede restaurar en la misma cuenta. Las **devoluciones** las gestiona Google Play según sus propias políticas.
 
 ---
 

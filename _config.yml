@@ -1,0 +1,8 @@
+title: TexLED
+description: Legal pages (privacy policy & terms) for TexLED
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

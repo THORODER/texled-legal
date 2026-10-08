@@ -1,0 +1,138 @@
+:root {
+  --bg: #000000;
+  --panel: #1A1A1A;
+  --elev: #242424;
+  --text: #FFFFFF;
+  --muted: #B0B0B0;
+  --accent: #FF3131;
+  --blue: #4D96FF;
+  --green: #05D547;
+  --red: #E6142A;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrap {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 26px 18px 72px;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+  border-bottom: 4px solid var(--accent);
+  padding-bottom: 14px;
+  margin-bottom: 22px;
+}
+
+.brand .logo {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 800;
+  font-size: 36px;
+  letter-spacing: 1px;
+  text-decoration: none;
+}
+
+.logo .t { color: #FFFFFF; }
+.logo .l { color: var(--blue); }
+.logo .e { color: var(--green); }
+.logo .d { color: var(--red); }
+
+.nav a {
+  color: var(--text);
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 1.5px;
+  margin-left: 14px;
+  opacity: 0.85;
+}
+
+.nav a:hover {
+  color: var(--accent);
+  opacity: 1;
+}
+
+.card {
+  background: var(--panel);
+  border: 3px solid #000000;
+  box-shadow: 10px 10px 0 var(--accent);
+  padding: 22px 20px;
+}
+
+.content h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 26px;
+  margin: 0 0 6px;
+  letter-spacing: 0.5px;
+}
+
+.content h2 {
+  font-size: 15px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-left: 6px solid var(--accent);
+  padding-left: 10px;
+  margin: 26px 0 8px;
+}
+
+.content h3 {
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--muted);
+}
+
+.content a { color: var(--accent); }
+.content a:hover { color: #FFFFFF; }
+.content hr {
+  border: 0;
+  border-top: 2px dashed var(--elev);
+  margin: 20px 0;
+}
+.content strong { color: #FFFFFF; }
+.content code {
+  background: var(--elev);
+  padding: 2px 6px;
+}
+.content ul { padding-left: 20px; }
+.content li { margin: 4px 0; }
+
+.foot {
+  margin-top: 26px;
+  text-align: center;
+  color: var(--muted);
+  font-size: 12px;
+}
+.foot a { color: var(--accent); }
+
+@media (max-width: 520px) {
+  .brand {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .brand .logo { font-size: 30px; }
+  .card {
+    box-shadow: 6px 6px 0 var(--accent);
+    padding: 18px 14px;
+  }
+}

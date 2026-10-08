@@ -23,9 +23,11 @@ We grant you a personal, non-exclusive, non-transferable, revocable license to u
 
 ---
 
-## 2. Ads and Premium features
+## 2. Ads, Premium features and purchases
 
 The App is free and supported by advertising (Google AdMob). Some additional features ("Premium") can be temporarily unlocked by watching a **rewarded ad**; this unlock is **temporary** and may change. Ad availability depends on Google and your region.
+
+The App also offers an optional **one-time in-app purchase** ("Remove ads") that removes banner and interstitial ads and unlocks the Premium features permanently. The price is shown by **Google Play** before you confirm the purchase. Payments are processed by Google Play; we do not receive your payment details. Your purchase is tied to your Google account and can be restored on the same account. **Refunds** are handled by Google Play under its own policies.
 
 ---
 

@@ -110,7 +110,17 @@ We may update this Policy from time to time. The "Last updated" date at the top 
 
 ---
 
-## 12. Contact
+## 12. In-app purchases
+
+The App offers an optional **one-time in-app purchase** ("Remove ads") that disables banner and interstitial advertising and unlocks the Premium features permanently.
+
+- Payments are processed by **Google Play Billing**. We **do not receive or store your payment details** (such as card numbers); Google handles the transaction and billing information.
+- To remember your purchase, the App stores a **local flag on your device** (and Google records the purchase in your Google account). You can restore it on the same Google account.
+- **Refunds** are handled by Google Play under its own policies.
+
+---
+
+## 13. Contact
 
 Questions about this Policy:
 

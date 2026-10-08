@@ -39,7 +39,7 @@ La App usa el **SDK de Google Mobile Ads (AdMob)** y la **User Messaging Platfor
 
 A través de estos servicios, Google y sus socios publicitarios pueden recopilar y tratar:
 
-- el **ID de publicidad** (identificador restableble del dispositivo);
+- el **ID de publicidad** y el **App Set ID** (identificadores restablebles/limitados del dispositivo);
 - **información del dispositivo y de la app** (modelo, sistema operativo, versión, idioma);
 - la **dirección IP** y una **ubicación aproximada (no precisa)** derivada de ella;
 - **datos de interacción con anuncios** (impresiones, clics) y datos de diagnóstico/rendimiento.

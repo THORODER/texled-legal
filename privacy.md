@@ -38,7 +38,7 @@ The App uses the **Google Mobile Ads SDK (AdMob)** and the **Google User Messagi
 
 Through these services, Google and its advertising partners may collect and process:
 
-- **Advertising ID** (a resettable device identifier);
+- **Advertising ID** and **app set ID** (resettable/limited device identifiers);
 - **device and app information** (model, operating system, app version, language);
 - **IP address** and an **approximate (coarse) location** derived from it;
 - **ad interaction data** (impressions, clicks) and diagnostic/performance data.

@@ -1,13 +1,14 @@
+
 :root {
   --bg: #000000;
   --panel: #1A1A1A;
   --elev: #242424;
   --text: #FFFFFF;
   --muted: #B0B0B0;
-  --accent: #FF3131;
-  --blue: #4D96FF;
-  --green: #05D547;
-  --red: #E6142A;
+  --accent: #C62828;
+  --blue: #1976D2;
+  --green: #2E7D32;
+  --red: #C62828;
 }
 
 * {
@@ -39,7 +40,7 @@ body {
   justify-content: space-between;
   gap: 16px;
   flex-wrap: wrap;
-  border-bottom: 2px solid #2A2A2A;
+  border-bottom: 4px solid var(--accent);
   padding-bottom: 14px;
   margin-bottom: 22px;
 }
@@ -75,7 +76,7 @@ body {
 .card {
   background: var(--panel);
   border: 3px solid #000000;
-  box-shadow: 8px 8px 0 #2A2A2A;
+  box-shadow: none;
   padding: 22px 20px;
 }
 
@@ -90,7 +91,7 @@ body {
   font-size: 15px;
   text-transform: uppercase;
   letter-spacing: 1px;
-  border-left: 4px solid #2A2A2A;
+  border-left: 6px solid var(--accent);
   padding-left: 10px;
   margin: 26px 0 8px;
 }
@@ -132,7 +133,7 @@ body {
   }
   .brand .logo { font-size: 30px; }
   .card {
-    box-shadow: 6px 6px 0 #2A2A2A;
+    box-shadow: none;
     padding: 18px 14px;
   }
 }

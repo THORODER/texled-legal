@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="{{ page.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.description }}" />
+    <link rel="stylesheet" href="{{ '/assets/css/texled.css' | relative_url }}" />
+  </head>
+  <body>
+    <div class="wrap">
+      <header class="brand">
+        <a class="logo" href="{{ '/' | relative_url }}" aria-label="TexLED">
+          <span class="t">Tex</span><span class="l">L</span><span class="e">E</span><span class="d">D</span>
+        </a>
+        <nav class="nav">
+          {% if page.lang == 'es' %}
+          <a href="{{ '/privacy-es.html' | relative_url }}">Privacidad</a>
+          <a href="{{ '/terms-es.html' | relative_url }}">Términos</a>
+          {% else %}
+          <a href="{{ '/privacy.html' | relative_url }}">Privacy</a>
+          <a href="{{ '/terms.html' | relative_url }}">Terms</a>
+          {% endif %}
+        </nav>
+      </header>
+
+      <main class="card content">
+        {{ content }}
+      </main>
+
+      <footer class="foot">
+        © Toolcosoft · <a href="mailto:toolcosoft@gmail.com">toolcosoft@gmail.com</a>
+      </footer>
+    </div>
+  </body>
+</html>

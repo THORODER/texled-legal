@@ -7,7 +7,7 @@ title: Privacy Policy — TexLED
 **Effective date:** October 8, 2026
 **Last updated:** October 8, 2026
 
-This Privacy Policy explains how the mobile application **TexLED** ("the App") handles information. The App is developed and published by **Toolcosoft** ("we", "us").
+This Privacy Policy explains how the mobile application **TexLED** ("the App") handles information. The App is developed and published by **Tool Cosoft** ("we", "us").
 
 If you do not agree with this Policy, please do not use the App.
 
@@ -124,5 +124,5 @@ The App offers an optional **one-time in-app purchase** ("Remove ads") that disa
 
 Questions about this Policy:
 
-**Toolcosoft**
+**Tool Cosoft**
 Email: **toolcosoft@gmail.com**

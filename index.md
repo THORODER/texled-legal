@@ -4,7 +4,7 @@ title: TexLED — Legal
 
 # TexLED — Información legal / Legal
 
-Aplicación **TexLED** de Toolcosoft.
+Aplicación **TexLED** de Tool Cosoft.
 
 ## Política de Privacidad / Privacy Policy
 

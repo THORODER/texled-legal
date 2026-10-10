@@ -8,7 +8,7 @@ lang: es
 **Fecha de entrada en vigor:** 8 de octubre de 2026
 **Última actualización:** 8 de octubre de 2026
 
-Esta Política de Privacidad explica cómo la aplicación móvil **TexLED** ("la App") maneja la información. La App es desarrollada y publicada por **Toolcosoft** ("nosotros").
+Esta Política de Privacidad explica cómo la aplicación móvil **TexLED** ("la App") maneja la información. La App es desarrollada y publicada por **Tool Cosoft** ("nosotros").
 
 Si no estás de acuerdo con esta Política, por favor no uses la App.
 
@@ -125,5 +125,5 @@ La App ofrece una **compra única opcional** ("Quitar anuncios") que desactiva l
 
 Dudas sobre esta Política:
 
-**Toolcosoft**
+**Tool Cosoft**
 Correo: **toolcosoft@gmail.com**

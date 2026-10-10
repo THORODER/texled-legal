@@ -7,7 +7,7 @@ title: Terms of Service — TexLED
 **Effective date:** October 8, 2026
 **Last updated:** October 8, 2026
 
-These Terms of Service ("Terms") govern your use of the mobile application **TexLED** ("the App"), provided by **Toolcosoft** ("we", "us").
+These Terms of Service ("Terms") govern your use of the mobile application **TexLED** ("the App"), provided by **Tool Cosoft** ("we", "us").
 
 By installing or using the App you agree to these Terms. If you do not agree, do not use the App.
 
@@ -67,7 +67,17 @@ These Terms are governed by the laws of **Colombia**, without affecting mandator
 
 ---
 
-## 9. Contact
+## 9. Health warning — flashing lights
 
-**Toolcosoft**
+The App can display **flashing** or blinking lights (for example, the "Blink" feature and animated LED signs). Flashing lights may trigger seizures or discomfort in people with **photosensitive epilepsy** or sensitivity to light.
+
+- If you are sensitive to flashing lights or have epilepsy, **do not use the blinking feature**, and stop using the App if you feel unwell.
+- You can turn blinking off in the App's settings at any time.
+- You use the App at your own risk.
+
+---
+
+## 10. Contact
+
+**Tool Cosoft**
 Email: **toolcosoft@gmail.com**

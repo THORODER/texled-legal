@@ -8,7 +8,7 @@ lang: es
 **Fecha de entrada en vigor:** 8 de octubre de 2026
 **Última actualización:** 8 de octubre de 2026
 
-Estos Términos de Servicio ("Términos") rigen tu uso de la aplicación móvil **TexLED** ("la App"), ofrecida por **Toolcosoft** ("nosotros").
+Estos Términos de Servicio ("Términos") rigen tu uso de la aplicación móvil **TexLED** ("la App"), ofrecida por **Tool Cosoft** ("nosotros").
 
 Al instalar o usar la App aceptas estos Términos. Si no estás de acuerdo, no uses la App.
 
@@ -68,7 +68,17 @@ Estos Términos se rigen por las leyes de **Colombia**, sin perjuicio de los der
 
 ---
 
-## 9. Contacto
+## 9. Aviso de salud — luces intermitentes
 
-**Toolcosoft**
+La App puede mostrar **luces intermitentes** o destellos (por ejemplo, la función "Parpadeo" y los letreros LED animados). Las luces intermitentes pueden provocar crisis o molestias en personas con **epilepsia fotosensible** o sensibilidad a la luz.
+
+- Si eres sensible a las luces intermitentes o tienes epilepsia, **no uses la función de parpadeo**, y deja de usar la App si te sientes mal.
+- Puedes desactivar el parpadeo en los ajustes de la App en cualquier momento.
+- Usas la App bajo tu propio riesgo.
+
+---
+
+## 10. Contacto
+
+**Tool Cosoft**
 Correo: **toolcosoft@gmail.com**

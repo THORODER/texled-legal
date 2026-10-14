@@ -5,7 +5,7 @@ title: Privacy Policy — TexLED
 # Privacy Policy — TexLED
 
 **Effective date:** October 8, 2026
-**Last updated:** October 8, 2026
+**Last updated:** October 14, 2026
 
 This Privacy Policy explains how the mobile application **TexLED** ("the App") handles information. The App is developed and published by **Tool Cosoft** ("we", "us").
 
@@ -112,11 +112,12 @@ We may update this Policy from time to time. The "Last updated" date at the top 
 
 ## 12. In-app purchases
 
-The App offers an optional **one-time in-app purchase** ("Remove ads") that disables banner and interstitial advertising and unlocks the Premium features permanently.
+The App offers an optional **one-time in-app purchase** ("Remove ads") that disables banner and interstitial advertising and unlocks the Premium features permanently. The purchase does not expire on its own, but if it is refunded, cancelled or revoked by Google Play, access is removed.
 
 - Payments are processed by **Google Play Billing**. We **do not receive or store your payment details** (such as card numbers); Google handles the transaction and billing information.
 - To remember your purchase, the App stores a **local flag on your device** (and Google records the purchase in your Google account). You can restore it on the same Google account.
 - **Refunds** are handled by Google Play under its own policies.
+- If a purchase is refunded, cancelled or revoked, the App clears that **local flag**, so the banner and interstitial ads return and the Premium features are locked again.
 
 ---
 

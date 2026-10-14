@@ -6,7 +6,7 @@ lang: es
 # Términos de Servicio — TexLED
 
 **Fecha de entrada en vigor:** 8 de octubre de 2026
-**Última actualización:** 8 de octubre de 2026
+**Última actualización:** 14 de octubre de 2026
 
 Estos Términos de Servicio ("Términos") rigen tu uso de la aplicación móvil **TexLED** ("la App"), ofrecida por **Tool Cosoft** ("nosotros").
 
@@ -28,7 +28,7 @@ Te concedemos una licencia personal, no exclusiva, no transferible y revocable p
 
 La App es gratuita y se financia con publicidad (Google AdMob). Algunas funciones adicionales ("Premium") se pueden desbloquear **temporalmente** viendo un **anuncio con recompensa**; este desbloqueo es **temporal** y puede cambiar. La disponibilidad de anuncios depende de Google y de tu región.
 
-La App también ofrece una **compra única opcional** ("Quitar anuncios") que elimina los anuncios de banner e intersticial y desbloquea las funciones Premium de forma permanente. El precio lo muestra **Google Play** antes de confirmar la compra. Los pagos los procesa Google Play; no recibimos tus datos de pago. La compra queda asociada a tu cuenta de Google y se puede restaurar en la misma cuenta. Las **devoluciones** las gestiona Google Play según sus propias políticas.
+La App también ofrece una **compra única opcional** ("Quitar anuncios") que elimina los anuncios de banner e intersticial y desbloquea las funciones Premium de forma permanente. El precio lo muestra **Google Play** antes de confirmar la compra. Los pagos los procesa Google Play; no recibimos tus datos de pago. La compra queda asociada a tu cuenta de Google y se puede restaurar en la misma cuenta. Las **devoluciones** las gestiona Google Play según sus propias políticas. Si Google reembolsa, cancela o revoca de otro modo la compra (por ejemplo, una reversión de cargo o un pago no válido), la compra deja de ser válida: volverán los anuncios de banner e intersticial y las funciones Premium quedarán bloqueadas de nuevo.
 
 ---
 

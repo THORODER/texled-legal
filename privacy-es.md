@@ -6,7 +6,7 @@ lang: es
 # Política de Privacidad — TexLED
 
 **Fecha de entrada en vigor:** 8 de octubre de 2026
-**Última actualización:** 8 de octubre de 2026
+**Última actualización:** 14 de octubre de 2026
 
 Esta Política de Privacidad explica cómo la aplicación móvil **TexLED** ("la App") maneja la información. La App es desarrollada y publicada por **Tool Cosoft** ("nosotros").
 
@@ -113,11 +113,12 @@ Podemos actualizar esta Política ocasionalmente. La fecha de "Última actualiza
 
 ## 12. Compras dentro de la app
 
-La App ofrece una **compra única opcional** ("Quitar anuncios") que desactiva los anuncios de banner e intersticial y desbloquea las funciones Premium de forma permanente.
+La App ofrece una **compra única opcional** ("Quitar anuncios") que desactiva los anuncios de banner e intersticial y desbloquea las funciones Premium de forma permanente. La compra no caduca por sí sola, pero si Google Play la reembolsa, cancela o revoca, se retira el acceso.
 
 - Los pagos los procesa **Google Play Billing**. **No recibimos ni almacenamos tus datos de pago** (como el número de tarjeta); Google gestiona la transacción y la facturación.
 - Para recordar la compra, la App guarda un **indicador local en tu dispositivo** (y Google registra la compra en tu cuenta de Google). Puedes restaurarla en la misma cuenta de Google.
 - Las **devoluciones** las gestiona Google Play según sus propias políticas.
+- Si una compra se reembolsa, cancela o revoca, la App limpia ese **indicador local**, con lo que vuelven los anuncios de banner e intersticial y las funciones Premium quedan bloqueadas de nuevo.
 
 ---
 
